@@ -4,3 +4,8 @@
 "Acceptance Criteria: Valid credentials allow access to the Admin Dashboard." 
 "**Status: Implemented**" 
 ECHO is on.
+## T-2: Create a new user account 
+As an Admin, I want to create a new user account so that new employees can use the system. 
+Acceptance Criteria: User information is saved and a success notification is shown. 
+**Status: Implemented** 
+ 
