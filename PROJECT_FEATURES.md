@@ -9,3 +9,7 @@ As an Admin, I want to create a new user account so that new employees can use t
 Acceptance Criteria: User information is saved and a success notification is shown. 
 **Status: Implemented** 
  
+As an Admin, I want to delete a user account so that inactive or removed users cannot access the system.
+Acceptance Criteria: User account is removed and confirmation dialog is shown.
+*Status: Implemented*
+
