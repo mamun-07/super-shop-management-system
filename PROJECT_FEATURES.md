@@ -13,3 +13,4 @@ As an Admin, I want to delete a user account so that inactive or removed users c
 Acceptance Criteria: User account is removed and confirmation dialog is shown.
 *Status: Implemented*
 
+update T-3 details
