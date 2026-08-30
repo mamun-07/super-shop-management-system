@@ -1,0 +1,14 @@
+ID: T-7
+Role: Admin
+
+As a/an:
+Admin
+
+I want to:
+Generate management reports
+
+So that:
+I can monitor overall business performance
+
+Acceptance Criteria:
+Reports are generated with accurate data
