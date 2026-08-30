@@ -1,0 +1,14 @@
+ID: T-4
+Role: Admin
+
+As a/an:
+Admin
+
+I want to:
+Delete a user account
+
+So that:
+Unauthorized users cannot access the system
+
+Acceptance Criteria:
+Confirmation message is shown before deletion
