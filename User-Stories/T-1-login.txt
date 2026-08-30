@@ -1,0 +1,14 @@
+Card: T-1
+Title: Login with username and password
+
+As an:
+Admin
+
+I want to:
+Login with username and password
+
+So that:
+I can securely access the system
+
+Acceptance Criteria:
+1. Valid credentials allow access to the Admin Dashboard.
