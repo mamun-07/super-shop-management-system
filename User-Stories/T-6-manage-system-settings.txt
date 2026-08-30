@@ -1,0 +1,14 @@
+ID: T-6
+Role: Admin
+
+As a/an:
+Admin
+
+I want to:
+Manage system settings
+
+So that:
+The system works according to business requirements
+
+Acceptance Criteria:
+Updated settings are saved successfully
