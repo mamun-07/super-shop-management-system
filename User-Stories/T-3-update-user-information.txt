@@ -1,0 +1,14 @@
+ID: T-3
+Role: Admin
+
+As a/an:
+Admin
+
+I want to:
+Update user information
+
+So that:
+User information remains accurate
+
+Acceptance Criteria:
+Updated information is displayed immediately
