@@ -1,0 +1,14 @@
+Card: T-2
+Title: Create a new user account
+
+As an:
+Admin
+
+I want to:
+Create a new user account
+
+So that:
+New employees can use the system
+
+Acceptance Criteria:
+1. User information is saved and a success notification is shown.

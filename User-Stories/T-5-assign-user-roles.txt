@@ -1,0 +1,14 @@
+ID: T-5
+Role: Admin
+
+As a/an:
+Admin
+
+I want to:
+Assign user roles
+
+So that:
+Every user has proper system access
+
+Acceptance Criteria:
+Selected role is assigned successfully
