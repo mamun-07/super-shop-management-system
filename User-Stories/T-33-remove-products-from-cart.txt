@@ -1,0 +1,10 @@
+ID: T-33
+
+User Story:
+As a Customer, I want to remove products from cart.
+
+So that:
+I can modify my order.
+
+Acceptance Criteria:
+- Cart updates correctly.
