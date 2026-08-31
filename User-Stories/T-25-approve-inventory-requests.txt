@@ -1,0 +1,10 @@
+ID: T-25
+
+User Story:
+As a Store Manager, I want to approve inventory requests.
+
+So that:
+Stock shortages are handled quickly.
+
+Acceptance Criteria:
+- Approval updates the inventory request status.
