@@ -1,0 +1,10 @@
+ID: T-31
+
+User Story:
+As a Customer, I want to view product details.
+
+So that:
+I can make informed purchasing decisions.
+
+Acceptance Criteria:
+- Product information, price, and availability are shown.
