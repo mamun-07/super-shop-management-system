@@ -1,0 +1,10 @@
+ID: T-11
+ 
+User Story:
+As a Cashier, I want to search products.
+ 
+So that:
+I can quickly find customer items.
+ 
+Acceptance Criteria:
+- Product search returns matching results.
