@@ -1,0 +1,10 @@
+ID: T-14
+
+User Story:
+As a Cashier, I want to process payments.
+
+So that:
+Customers can complete purchases.
+
+Acceptance Criteria:
+- Cash, card, and digital payments are accepted.

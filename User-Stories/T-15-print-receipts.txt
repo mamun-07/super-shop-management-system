@@ -1,0 +1,10 @@
+ID: T-15
+
+User Story:
+As a Cashier, I want to print receipts.
+
+So that:
+Customers receive proof of purchase.
+
+Acceptance Criteria:
+- Receipt is generated successfully.
