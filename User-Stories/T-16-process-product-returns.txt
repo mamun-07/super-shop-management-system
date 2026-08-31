@@ -1,0 +1,10 @@
+ID: T-16
+
+User Story:
+As a Cashier, I want to process product returns.
+
+So that:
+Returned products are recorded correctly.
+
+Acceptance Criteria:
+- Return transaction updates inventory.
