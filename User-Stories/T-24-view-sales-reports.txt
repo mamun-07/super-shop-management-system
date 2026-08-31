@@ -1,0 +1,10 @@
+ID: T-24
+
+User Story:
+As a Store Manager, I want to view sales reports.
+
+So that:
+I can make business decisions.
+
+Acceptance Criteria:
+- Monthly and yearly sales reports are available.

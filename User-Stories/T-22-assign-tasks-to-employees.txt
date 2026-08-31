@@ -1,0 +1,10 @@
+ID: T-22
+
+User Story:
+As a Store Manager, I want to assign tasks to employees.
+
+So that:
+Daily operations run efficiently.
+
+Acceptance Criteria:
+- Assigned tasks appear in employee accounts.
