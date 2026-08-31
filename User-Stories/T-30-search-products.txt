@@ -1,0 +1,10 @@
+ID: T-30
+
+User Story:
+As a Customer, I want to search products.
+
+So that:
+I can quickly find desired products.
+
+Acceptance Criteria:
+- Matching products are listed.
