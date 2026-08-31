@@ -1,0 +1,10 @@
+ID: T-36
+
+User Story:
+As a Customer, I want to view purchase history.
+
+So that:
+I can review previous orders.
+
+Acceptance Criteria:
+- Order history is displayed.
