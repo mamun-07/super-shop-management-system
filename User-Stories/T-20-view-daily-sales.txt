@@ -1,0 +1,10 @@
+ID: T-20
+
+User Story:
+As a Store Manager, I want to view daily sales.
+
+So that:
+I can monitor store performance.
+
+Acceptance Criteria:
+- Sales summary is displayed.
