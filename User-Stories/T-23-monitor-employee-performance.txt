@@ -1,0 +1,10 @@
+ID: T-23
+
+User Story:
+As a Store Manager, I want to monitor employee performance.
+
+So that:
+I can evaluate employees.
+
+Acceptance Criteria:
+- Performance report is displayed.
