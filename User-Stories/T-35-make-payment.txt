@@ -1,0 +1,10 @@
+ID: T-35
+
+User Story:
+As a Customer, I want to make payment.
+
+So that:
+My purchase is completed.
+
+Acceptance Criteria:
+- Payment confirmation is displayed.

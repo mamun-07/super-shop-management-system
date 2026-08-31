@@ -1,0 +1,10 @@
+ID: T-32
+
+User Story:
+As a Customer, I want to add products to cart.
+
+So that:
+I can purchase multiple items together.
+
+Acceptance Criteria:
+- Cart updates with selected products.

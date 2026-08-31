@@ -1,0 +1,10 @@
+ID: T-27
+
+User Story:
+As a Customer, I want to register a new account.
+
+So that:
+I can purchase products easily.
+
+Acceptance Criteria:
+- Registration completes successfully.

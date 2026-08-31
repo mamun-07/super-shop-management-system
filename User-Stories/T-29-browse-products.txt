@@ -1,0 +1,10 @@
+ID: T-29
+
+User Story:
+As a Customer, I want to browse products.
+
+So that:
+I can view available products.
+
+Acceptance Criteria:
+- Product catalog is displayed.

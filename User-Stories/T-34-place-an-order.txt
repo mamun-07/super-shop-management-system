@@ -1,0 +1,10 @@
+ID: T-34
+
+User Story:
+As a Customer, I want to place an order.
+
+So that:
+I can buy selected products.
+
+Acceptance Criteria:
+- Order is created successfully.
