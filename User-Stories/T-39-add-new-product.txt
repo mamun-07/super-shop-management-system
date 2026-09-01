@@ -1,0 +1,13 @@
+Title: Add a New Product
+
+User Story:
+As an Inventory Manager,
+I want to add a new product,
+so that new products become available for sale.
+
+Acceptance Criteria:
+1. Inventory Manager can enter product information.
+2. Inventory Manager can submit the new product.
+3. System validates the product information.
+4. Product is saved successfully.
+5. New product becomes available for sale.
