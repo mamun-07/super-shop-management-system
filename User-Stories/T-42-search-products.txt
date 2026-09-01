@@ -1,0 +1,13 @@
+Title: Search Products
+
+User Story:
+As an Inventory Manager,
+I want to search for products,
+so that I can quickly find product information.
+
+Acceptance Criteria:
+1. Inventory Manager can enter a product name or keyword.
+2. System searches the product list.
+3. Matching products are displayed.
+4. Inventory Manager can view the relevant product information.
+5. If no product matches, the system displays an appropriate message.
