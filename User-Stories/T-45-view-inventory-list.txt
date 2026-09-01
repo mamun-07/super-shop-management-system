@@ -1,0 +1,13 @@
+Title: View Inventory List
+
+User Story:
+As an Inventory Manager,
+I want to view the inventory list,
+so that I can monitor all available products.
+
+Acceptance Criteria:
+1. Inventory Manager can open the inventory list.
+2. The system displays available products.
+3. Product name and current stock quantity are displayed.
+4. Inventory Manager can view the current inventory status.
+5. The inventory list shows updated stock information.
