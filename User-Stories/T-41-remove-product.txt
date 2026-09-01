@@ -1,0 +1,13 @@
+Title: Remove a Product
+
+User Story:
+As an Inventory Manager,
+I want to remove a product,
+so that unavailable products are removed from the system.
+
+Acceptance Criteria:
+1. Inventory Manager can select a product.
+2. Inventory Manager can choose the remove option.
+3. System asks for confirmation before removal.
+4. Product is removed after confirmation.
+5. Removed product no longer appears in the product list.
