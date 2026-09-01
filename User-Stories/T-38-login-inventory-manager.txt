@@ -1,0 +1,13 @@
+Title: Login as Inventory Manager
+
+User Story:
+As an Inventory Manager,
+I want to login with my username and password,
+so that I can manage inventory securely.
+
+Acceptance Criteria:
+1. Inventory Manager can enter a username.
+2. Inventory Manager can enter a password.
+3. System verifies the login credentials.
+4. Successful login opens the Inventory Manager Dashboard.
+5. Invalid credentials prevent access.

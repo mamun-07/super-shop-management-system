@@ -1,0 +1,13 @@
+Title: Update Stock Quantity
+
+User Story:
+As an Inventory Manager,
+I want to update stock quantity,
+so that the inventory remains accurate.
+
+Acceptance Criteria:
+1. Inventory Manager can select a product.
+2. Current stock quantity is displayed.
+3. Inventory Manager can enter the new stock quantity.
+4. System saves the updated quantity.
+5. Updated stock quantity is displayed successfully.

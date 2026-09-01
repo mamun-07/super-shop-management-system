@@ -1,0 +1,13 @@
+Title: Update Product Information
+
+User Story:
+As an Inventory Manager,
+I want to update product information,
+so that customers can see accurate product details.
+
+Acceptance Criteria:
+1. Inventory Manager can select an existing product.
+2. Inventory Manager can edit product information.
+3. Inventory Manager can save the updated information.
+4. System validates the changes.
+5. Updated product information is displayed successfully.
